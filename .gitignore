@@ -1,1 +1,4 @@
 /.vscode
+__pycache__/
+/Proyectos/Proyecto#2_Clasificacion multiclase/data/*.csv
+/Proyectos/Proyecto#2_Clasificacion multiclase/*.zip
